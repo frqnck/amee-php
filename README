@@ -1,4 +1,12 @@
+Transfered from Google Code (now defunct) and publish here for posterity. This is pre-2008 and mostly out of date.  
+
+Code license: GNU GPL v3
+Labels: php, carbon, c02, amee, ruby, HTTP, REST, energy, environment, carbonfootprint, greenhouse, globalwarming
+
+---
+
 AMEE-PHP
+--------
 
 A PHP wrapper/interface to the AMEE carbon calculator (http://amee.cc)
 
