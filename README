@@ -1,0 +1,13 @@
+AMEE-PHP
+
+A PHP wrapper/interface to the AMEE carbon calculator (http://amee.cc)
+
+Author: Franck Cassedanne <kifranky [at] gmail [dot] com>
+http://franck.cassedanne.com
+
+Project Home: http://code.google.com/p/amee-php
+
+=== This is a work in progress 0.1.0alpha ===
+
+Check the examples folder for some simple usage overview.
+Copy 'config-sample.php' to 'config.php', and alter accordingly. 
